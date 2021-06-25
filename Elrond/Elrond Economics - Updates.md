@@ -111,7 +111,7 @@ Elrond 메인넷을 부트스트랩하기 위해 Genesis에서는 폐쇄형 스�
 
 다음은 매주 지급되는 eGLD의 한도가 5,000 인 경우 두 대기열에 등록되는 eGLD의 양에 따라 다양한 보상 시나리오가 있는 표입니다.
 
-![img](img\APR-scenarios-for-the-sum-of-Validators-and-Delegators-Queues.png)
+![img](img/APR-scenarios-for-the-sum-of-Validators-and-Delegators-Queues.png)
 
 위임 및 검증에 대한 새로운 대기열 인센티브는 스테이킹의 3 단계가 활성화 될 때까지 계속 활성화 될 예정입니다. 3 단계 스테이킹을 사용할 수 있게 되면 대기열 인센티브가 비활성화됩니다.
 
@@ -171,7 +171,7 @@ Elrond 네트워크가 라이브 상태이고 초당 수십만 건의 트랜잭�
 
 이것이 바로 자율 금융의 시대입니다.
 
-![img](img/Automous Finance.png)
+![img](img/Automous-Finance.png)
 
 
 
@@ -244,7 +244,7 @@ Elrond는 상호 운용성이 뛰어난 블록 체인입니다. 이미 여러 �
 
 
 
-![img](img/Era of Autonomous Banking.png)
+![img](img/Era-of-Autonomous-Banking.png)
 
 **Mechanics Of DeFi Hypergrowth**
 
@@ -320,7 +320,7 @@ eGold 스테이 킹은 이제 매우 간단합니다. Maiar, Elrond 웹 지갑�
 - 커뮤니티 노드가이를 대체하여 커뮤니티 스테이 킹을위한 더 많은 공간을 만듭니다.
 - "활성 위임"(Elrond 노드에 대한 위임) APR은 16-17 % 범위입니다.
 
-![img](img/An overview of the proposed changes.png)
+![img](img/An-overview-of-the-proposed-changes.png)
 
 **필요한 조치 : 없음.**
 
@@ -526,7 +526,7 @@ MEX의 주요 기능은 거래소에 유동성을 제공하는 인센티브를 �
 
 아래는 첫해에 배포되거나 생성 될 실제 MEX 수입니다.
 
-![img](img/Number of MEX to be distributed.png)
+![img](img/Number-of-MEX-to-be-distributed.png)
 
 다음은 첫해 배포 및 배출에 대한 자세한 문서입니다.
 
