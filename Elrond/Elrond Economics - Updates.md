@@ -84,7 +84,7 @@ Elrond 메인넷을 부트스트랩하기 위해 Genesis에서는 폐쇄형 스�
 
 다음은 매주 지급되는 eGLD 한도가 4000 eGLD 인 경우 위임 대기열에 등록 될 eGLD의 양에 따라 다양한 보상 시나리오가 있는 표입니다.
 
-![img](./img/APR scenarios for the Delegators Queue.png)
+![img](./img/APR-scenarios-for-the-Delegators-Queue.png)
 
 
 
@@ -111,7 +111,7 @@ Elrond 메인넷을 부트스트랩하기 위해 Genesis에서는 폐쇄형 스�
 
 다음은 매주 지급되는 eGLD의 한도가 5,000 인 경우 두 대기열에 등록되는 eGLD의 양에 따라 다양한 보상 시나리오가 있는 표입니다.
 
-![img](img/APR scenarios for the sum of Validators and Delegators Queues.png)
+![img](img\APR-scenarios-for-the-sum-of-Validators-and-Delegators-Queues.png)
 
 위임 및 검증에 대한 새로운 대기열 인센티브는 스테이킹의 3 단계가 활성화 될 때까지 계속 활성화 될 예정입니다. 3 단계 스테이킹을 사용할 수 있게 되면 대기열 인센티브가 비활성화됩니다.
 
