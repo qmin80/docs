@@ -341,7 +341,7 @@ Genesis에서 메인넷은 노드 당 고정 지분, 2500 eGLD 및 고정된 수
 
 표 1은 노드의 등급이 합의 검증자로 선정될 기회를 증가 또는 감소시키는 방법을 정량적으로 보여줍니다 (더 많은 데이터를 사용할 수있는 경우 시간이 변경 될 수 있음).
 
-![image-20210625165409298](.\img\table1)
+![image-20210625165409298](.\img\table1.png)
 
 
 
@@ -497,7 +497,7 @@ Elrond에서 보상이 지급되는 방법은 다음과 같습니다.
 
 연간 최소 보장 보상 금액 (minimum guaranteed reward amount per year)이 있습니다. 최소 보장 보상 금액은 수수료에서 발생하고 나머지는 인플레이션에서 발생합니다. 따라서 수수료가 0 인 경우 연간 최대 인플레이션 율은 다음과 같습니다.
 
-![image-20210625165536501](.\img\Elrond eGold supply model)
+![image-20210625165536501](.\img\Elrond eGold supply model.png)
 
 
 
@@ -673,7 +673,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
    복잡성은 현실 세계 채택에 있어 가장 중요한 장애물입니다. 비트코인 또는 이더리움을 일반 사람들에게 설명 해보면 우리가 의미하는 바를 즉시 알 수 있습니다. 다음 10 억 명에게 다가가기 위해 우리는 Elrond 통화를 완전히 재고하여 그 본질을 보편적으로 매력적이고 강력한 은유로 포착했습니다.
 
-   ![image-20210625165654207](.\img\transition from atoms to bits is reshaping the wolrd)
+   ![image-20210625165654207](.\img\transition from atoms to bits is reshaping the wolrd.png)
 
 
 
@@ -683,7 +683,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
    eGLD와 같이 e를 접두사로 사용하는 새로운 시세 세트를 활성화하여 이해하기 쉽고 직관적으로 만들지 만 더 나은 방법은 무제한 세트 나열과 호환되는 E 접두사를 기반으로하는 유연하고 일관된 파생 경로를 활성화하는 것입니다. eGold 준비금 위에 새로운 통화가 추가됩니다.
    이 디자인에는 Elrond가 지방 정부 통화 및 기타 암호화 통화와 호환된다는 전제가 포함되어 있으며, 결국 Elrond의 고 대역폭 네트워크를 활용하여 지역 커뮤니티에 글로벌 가치 이전을 제공 할 수 있습니다. <u>사실, 우리는 스테이블 코인, 합성 자산 및 현지 법정 화폐와 같은 많은 새로운 토큰을 온보딩 할 계획입니다.</u>
 
-   ![image-20210625154413452](.\img\Elrond Reserve Standard)
+   ![image-20210625154413452](.\img\Elrond Reserve Standard.png)
 
 
 
@@ -691,7 +691,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
    창세기에는 80억 명에 비해 2 천만 개의 초기 eGold 만 있습니다. 이는 1 인당 0.0025 eGold의 매우 제한된 공급이 있음을 의미합니다. 이것은 현재 수천 개의 eGold를 소유하는 것이 2010 년에 수천 개의 비트 코인을 소유하는 것과 같을 수 있기 때문에 축적되는 군비 경쟁 게임을 설정합니다.
 
-   ![image-20210625154603711](.\img\Limited supply of eGold)
+   ![image-20210625154603711](.\img\Limited supply of eGold.png)
 
    
 
@@ -699,7 +699,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
    검증인이 Elrond 네트워크를 보호하기 위한 강력한 스테이킹 인센티브가 있습니다. 처음에는 이러한 스테이킹 인센티브가 매년 발행되는 신규 공급에서 발생하지만 채택이 시작되면 인플레이션이 스테이킹 보상을 충당하기 위해 거래 수수료로 대체됩니다. 또한 새로운 발행이 무한하고 제한이 없는 대부분의 다른 블록체인 네트워크와 달리 Elrond에서 이 합계는 이론적 공급 제한인 31,415,926 eGold로 제한되어 있으며 10 년 동안 도달 할 수 있습니다.
 
-   ![image-20210625154725691](.\img\Adoption increase eGold scarcity)
+   ![image-20210625154725691](.\img\Adoption increase eGold scarcity.png)
 
 
 
@@ -707,7 +707,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
    Elrond 경제 모델의 가장 강력한 기능 중 하나는 지불 된 각 거래 수수료가 인플레이션을 수수료로 대체하여 이론적 한도를 줄여 eGold를 더 희소하게 만들어 31.4M 최대 공급 한도에 도달하지 않도록한다는 것입니다.
 
-   ![image-20210625154850175](.\img\Initial supply vs max theoretical supply)
+   ![image-20210625154850175](.\img\Initial supply vs max theoretical supply.png)
 
 
 
@@ -715,7 +715,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
    Elrond는 네트워크가 모든 채택 시나리오를 통해 완전한 디플레이션 모델로 즉시 전환 할 수 있기 때문에 블록체인 공간에서 가장 강력한 채택 모델 중 하나를 제공합니다. 실제로 아래 이미지에서 볼 수 있는 제로 인플레이션 임계 값은 임계 값을 초과하는 데 네트워크 기능의 10 % 미만이 필요하기 때문에 Elrond가 이 임계 값을 초과하여 모든 네트워크 참여자에게 상당한 양의 가치를 창출 할 수 있음을 보여줍니다.
 
-   ![image-20210625155158928](.\img\Elrond Growth Simulation Scenarios)
+   ![image-20210625155158928](.\img\Elrond Growth Simulation Scenarios.png)
 
 
 
@@ -729,7 +729,7 @@ Elrond는 저장해야 하는 각 바이트 당 고정 가격이 있는 스마�
 
 eGold는 강력한 디지털 가치 저장소를 만드는 데 도움이 되는 고유한 속성을 가진 새로운 유형의 디지털 통화입니다.
 
-![image-20210625155444472](.\img\Money properties)
+![image-20210625155444472](.\img\Money properties.png)
 
 
 
@@ -786,7 +786,7 @@ Elrond는 전 세계 대부분의 법정 화폐보다 훨씬 더 큰 분할 가�
 
 아래는 eGold 공급 모델의 스냅 샷입니다. 
 
-![image-20210625160402950](.\img\Elrond eGold supply model 2)
+![image-20210625160402950](.\img\Elrond eGold supply model 2.png)
 
 
 
@@ -808,9 +808,9 @@ eGLD와 같이 e를 접두사로 사용하는 새로운 시세 세트를 활성�
 
 ## Constants and formulas
 
-![image-20210625161014600](.\img\Constants and formulas 1)
+![image-20210625161014600](.\img\Constants and formulas 1.png)
 
-![image-20210625161232260](.\img\Constants and formulas 2)
+![image-20210625161232260](.\img\Constants and formulas 2.png)
 
 
 
