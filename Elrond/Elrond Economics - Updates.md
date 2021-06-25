@@ -28,7 +28,7 @@
     + [Phase 2: Validators Queue](#phase-2--validators-queue)
     + [Important next steps](#important-next-steps)
 
-  * [Elrond DeFi 2.0: The Era Of Autonomous Banking, A 100-Trillion Dollar Opportunity](#elrond-defi-20--the-era-of-autonomous-banking--a-100-trillion-dollar-opportunity)
+  * [Elrond DeFi 2.0: The Era Of Autonomous Banking, A 100-Trillion Dollar Opportunity](#elrond-defi-20-the-era-of-autonomous-banking-a-100-trillion-dollar-opportunity)
 
   * [Accelerated Decentralization: Elrond Foundational Nodes Make Way For More Community Nodes](#accelerated-decentralization--elrond-foundational-nodes-make-way-for-more-community-nodes)
 
@@ -84,7 +84,7 @@ Elrond 메인넷을 부트스트랩하기 위해 Genesis에서는 폐쇄형 스�
 
 다음은 매주 지급되는 eGLD 한도가 4000 eGLD 인 경우 위임 대기열에 등록 될 eGLD의 양에 따라 다양한 보상 시나리오가 있는 표입니다.
 
-![img](img/APR scenarios for the Delegators Queue)
+![img](./img/APR scenarios for the Delegators Queue)
 
 
 
