@@ -22,6 +22,19 @@
 
 [toc]
 
+- [Elrond Economics Updates](#elrond-economics-updates)
+  * [Phases to staking](#phases-to-staking)
+    + [Phase 1: Incentivized Delegation Queue](#phase-1--incentivized-delegation-queue)
+    + [Phase 2: Validators Queue](#phase-2--validators-queue)
+    + [Important next steps](#important-next-steps)
+  * [Elrond DeFi 2.0: The Era Of Autonomous Banking, A 100-Trillion Dollar Opportunity](#elrond-defi-20--the-era-of-autonomous-banking--a-100-trillion-dollar-opportunity)
+  * [Accelerated Decentralization: Elrond Foundational Nodes Make Way For More Community Nodes](#accelerated-decentralization--elrond-foundational-nodes-make-way-for-more-community-nodes)
+  * [DeFi For The Next Billion: Maiar Exchange To Enable Internet-Scale Value Swaps, Global Accessibility, And Fair Community Distribution](#defi-for-the-next-billion--maiar-exchange-to-enable-internet-scale-value-swaps--global-accessibility--and-fair-community-distribution)
+  * [Broad Distribution And Compelling Tokenomics: Introducing The MEX Economic Model](#broad-distribution-and-compelling-tokenomics--introducing-the-mex-economic-model)
+  * [Accelerating Decentralization: Staking Phase 3.5 proposal](#accelerating-decentralization--staking-phase-35-proposal)
+
+
+
 ----------
 
 
